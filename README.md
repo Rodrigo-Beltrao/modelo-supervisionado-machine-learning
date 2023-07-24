@@ -1,6 +1,4 @@
 # modelo-supervisionado-machine-learning
-Resumo do código para a descrição no GitHub:
-
 Este repositório contém um projeto de modelos supervisionados para análise de dados relacionados a habitações, veículos e churn modelling. O código está escrito em Python usando a biblioteca Pandas para manipulação dos dados e as bibliotecas scikit-learn para implementação dos modelos.
 
 A primeira parte do código trata do carregamento dos dados dos arquivos "housing_teste.csv" e "housing_treino.csv" em dataframes de treino e teste. Em seguida, é realizado um modelo de regressão linear para prever a variável "Sale_Price" com base em cinco variáveis independentes.
